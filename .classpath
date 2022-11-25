@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/filip/eclipse-workspace/LabTeste/lib/activation-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/filip/eclipse-workspace/LabTeste/lib/itext-5.0.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/filip/eclipse-workspace/LabTeste/lib/jgoodies-common-1.2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/filip/eclipse-workspace/LabTeste/lib/jgoodies-forms-1.8.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/filip/eclipse-workspace/LabTeste/lib/jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/filip/eclipse-workspace/LabTeste/lib/jgoodies-looks-2.4.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/filip/eclipse-workspace/LabTeste/lib/junit-4.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/filip/eclipse-workspace/LabTeste/lib/mail-1.4.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/filip/eclipse-workspace/LabTeste/lib/miglayout15-swing.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/filip/eclipse-workspace/LabTeste/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
